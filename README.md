@@ -8,7 +8,7 @@
 
 ### Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python,java,r,jquery,bootstrap,dart,postgres)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python,java,r,jquery,bootstrap,dart,postgres,swift)](https://skills.thijs.gg)
 
 
 <!--
