@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Natalia
 
-- 🌱 I’m currently learning Android Mobile Development.
+- 🌱 I’m working on Android Mobile Development personal projects.
 - 👩🏻‍💻 I'm working on mobile iOS personal projects.
 - 💬 Ask me about Math! I'm a mathematician with a minor in Computational Math.
-- 🔭 I’m currently working on Data Analysis and Gen AI Prototyping at Seguros Bolivar.
-- 💡 I've worked with ML models for Demand Forecasting and in some projects of Python Development.
-- ⚡ Fun fact: I am a crochet addict 🧶
+- 🔭 I’m currently working on AI based software Development at Seguros Bolivar.
+- 💡 I've previously worked with ML models for Demand Forecasting and in some projects of Python Development.
+- ⚡ Fun fact: I am a crochet addict and a bookworm 📖🧶
 
 ### Skills
 
